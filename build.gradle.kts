@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("net.minestom:minestom:2026.03.25-1.21.11")
+    implementation("net.minestom:minestom:2026.03.25-1.21.11")
 
     // testing
     testImplementation("org.jetbrains.kotlin:kotlin-test")
