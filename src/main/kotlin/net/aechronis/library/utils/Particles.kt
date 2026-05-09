@@ -1,4 +1,4 @@
-package net.aechronis.vanilla.utils
+package net.aechronis.library.utils
 
 import net.minestom.server.coordinate.Pos
 import net.minestom.server.instance.Instance

@@ -1,6 +1,5 @@
-package net.aechronis.vanilla
+package net.aechronis.library
 
-import net.aechronis.library.Main
 import net.kyori.adventure.bossbar.BossBar
 import net.kyori.adventure.text.Component
 import net.minestom.server.Auth
@@ -21,7 +20,7 @@ import kotlin.math.min
 import kotlin.test.Test
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-class MainTest {
+class LibraryTest {
     @BeforeAll
     fun testInit() {
         // start server

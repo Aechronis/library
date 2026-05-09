@@ -1,4 +1,4 @@
-package net.aechronis.vanilla
+package net.aechronis.library
 
 import net.minestom.server.instance.block.Block
 import net.minestom.server.instance.generator.GenerationUnit

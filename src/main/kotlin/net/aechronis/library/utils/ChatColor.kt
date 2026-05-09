@@ -1,6 +1,6 @@
 @file:Suppress("ktlint:standard:filename")
 
-package net.aechronis.vanilla.utils
+package net.aechronis.library.utils
 
 object ChatColor {
     /**
